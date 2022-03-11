@@ -17,4 +17,4 @@ Create a symbolic link to link these files into the HOME directory.
 You may need to update the links any time there is an update to these dotfiles.
 
 ### Vision:
-  - [ ] Build a script file the will automatically build links for all of the dotfiles inside of this repository.
+  - [ ] Build a script file the will automatically move files and build links for all of the dotfiles inside of this repository.
