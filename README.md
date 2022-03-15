@@ -9,7 +9,7 @@ These dotfiles are meant to be in the HOME directory in order to work.
 
 Create a symbolic link to link these files into the HOME directory.
 
-`ln -sf [path]/dotfile/.dot_file_name ~/.dot_file_name`
+`ln -sf [path]/dotfiles/.dot_file_name ~/.dot_file_name`
   - s[ymbolic]: create a symbolic link
   - f[orce]: override without warning even if there are the link files with the same name
 
